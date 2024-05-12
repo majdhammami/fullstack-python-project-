@@ -1,0 +1,12 @@
+c:\users\dev\documents\visual studio 2013\Projects\loginformusingcsharp\loginformusingcsharp\bin\Debug\loginformusingcsharp.exe
+c:\users\dev\documents\visual studio 2013\Projects\loginformusingcsharp\loginformusingcsharp\bin\Debug\loginformusingcsharp.pdb
+c:\users\dev\documents\visual studio 2013\Projects\loginformusingcsharp\loginformusingcsharp\obj\Debug\loginformusingcsharp.csprojResolveAssemblyReference.cache
+c:\users\dev\documents\visual studio 2013\Projects\loginformusingcsharp\loginformusingcsharp\obj\Debug\loginformusingcsharp.Form1.resources
+c:\users\dev\documents\visual studio 2013\Projects\loginformusingcsharp\loginformusingcsharp\obj\Debug\loginformusingcsharp.Main.resources
+c:\users\dev\documents\visual studio 2013\Projects\loginformusingcsharp\loginformusingcsharp\obj\Debug\loginformusingcsharp.Properties.Resources.resources
+c:\users\dev\documents\visual studio 2013\Projects\loginformusingcsharp\loginformusingcsharp\obj\Debug\loginformusingcsharp.csproj.GenerateResource.Cache
+c:\users\dev\documents\visual studio 2013\Projects\loginformusingcsharp\loginformusingcsharp\obj\Debug\loginformusingcsharp.exe
+c:\users\dev\documents\visual studio 2013\Projects\loginformusingcsharp\loginformusingcsharp\obj\Debug\loginformusingcsharp.pdb
+C:\Users\dev\Desktop\l'appliction\loginformusingcsharp\obj\Debug\loginformusingcsharp.exe
+C:\Users\dev\Desktop\l'appliction\loginformusingcsharp\obj\Debug\loginformusingcsharp.pdb
+C:\Users\dev\Desktop\l'appliction\loginformusingcsharp\obj\Debug\loginformusingcsharp.csprojResolveAssemblyReference.cache
